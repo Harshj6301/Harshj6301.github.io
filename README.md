@@ -1,3 +1,3 @@
-# Harshvardhan Jadhav
-### Hey, I'm Harsh
-I am passionate about Data Science and Artificial Intelligence
+## Disclamier
+### Site designed by Diogo Ferreira, all credits to him
+Modified and used website for personal use only
